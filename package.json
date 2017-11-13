@@ -1,0 +1,19 @@
+{
+  "name": "to-do-app",
+  "version": "1.0.0",
+  "description": "A to-do app built on MongoDB, Node, Angular and Express. Provides the user the ability to add, delete and modify todos for their user account.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sancsh/To-Do-App.git"
+  },
+  "author": "Sanchit Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sancsh/To-Do-App/issues"
+  },
+  "homepage": "https://github.com/sancsh/To-Do-App#readme"
+}
