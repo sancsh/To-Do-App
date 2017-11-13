@@ -1,5 +1,5 @@
 {
-  "name": "to-do-app",
+  "name": "t",
   "version": "1.0.0",
   "description": "A to-do app built on MongoDB, Node, Angular and Express. Provides the user the ability to add, delete and modify todos for their user account.",
   "main": "index.js",
@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/sancsh/To-Do-App/issues"
   },
-  "homepage": "https://github.com/sancsh/To-Do-App#readme"
+  "homepage": "https://github.com/sancsh/To-Do-App#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.2"
+  }
 }
